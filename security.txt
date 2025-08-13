@@ -1,0 +1,7 @@
+Contact: mailto:security@neha07-happytosayhello.github.io
+Expires: 2026-08-13T12:00:00Z
+Preferred-Languages: en
+Acknowledgments: https://neha07-happytosayhello.github.io/IPM05045-NehaKumari/security/acknowledgments
+Canonical: https://neha07-happytosayhello.github.io/IPM05045-NehaKumari/.well-known/security.txt
+Policy: https://neha07-happytosayhello.github.io/IPM05045-NehaKumari/security-policy
+Hiring: https://neha07-happytosayhello.github.io/IPM05045-NehaKumari/jobs

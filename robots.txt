@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /hidden.html
+Allow: /
+Sitemap: https://neha07-happytosayhello.github.io/IPM05045-NehaKumari/sitemap.xml
