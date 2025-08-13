@@ -1,4 +1,4 @@
-<!-- philosophy.html -->
+<!-- hidden.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -468,7 +468,7 @@
                 <a href="about.html" class="nav-link">About</a>
                 <a href="contact.html" class="nav-link">Contact</a>
                 <a href="reborn-biz.html" class="nav-link">Biz</a>
-                <a href="philosophy.html" class="nav-link active">Philosophy</a>
+                <a href="hidden.html" class="nav-link active">Philosophy</a>
                 <!-- <span class="cart-count">Cart: <span id="cart-count">0</span></span> -->
                 <span class="user-greeting" id="user-greeting"></span>
                 <button class="logout-button" id="logout-button" style="display: none;">Logout</button>
@@ -1013,8 +1013,8 @@
             // Shift + R to navigate to philosophy page (works from any page)
             if (e.shiftKey && e.key.toLowerCase() === 'r') {
                 e.preventDefault();
-                if (!window.location.pathname.includes('philosophy.html')) {
-                    window.location.href = 'philosophy.html';
+                if (!window.location.pathname.includes('hidden.html')) {
+                    window.location.href = 'hidden.html';
                 } else {
                     // If already on philosophy page, show a notification
                     showNotification('Already on Philosophy page!', 'info');

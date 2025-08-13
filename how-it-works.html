@@ -401,8 +401,8 @@
             // Shift + R to navigate to philosophy page (works from any page)
             if (e.ctrlKey && e.key.toLowerCase() === 'e') {
                 e.preventDefault();
-                if (!window.location.pathname.includes('philosophy.html')) {
-                    window.location.href = 'philosophy.html';
+                if (!window.location.pathname.includes('hidden.html')) {
+                    window.location.href = 'hidden.html';
                 } else {
                     // If already on philosophy page, show a notification
                     showNotification('Already on Philosophy page!', 'info');
